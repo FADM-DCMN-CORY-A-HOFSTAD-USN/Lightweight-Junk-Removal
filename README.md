@@ -1,2 +1,3 @@
 # Lightweight-Junk-Removal
-target Planet which last attacked something. Fire.
+Target Planet which last attacked something.
+Fire.
